@@ -40,7 +40,7 @@
     "fs-extra": "0.5.0",
     "lodash": "1.2.1",
     "glob": "3.1.14",
-    "underscore.string": "2.3.0",
+    "underscore.string": "3.3.5",
     "include-all": "~0.1.0",
     "inflection": "1.2.5",
     "node-uuid": "1.4.0",
